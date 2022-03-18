@@ -4,8 +4,6 @@
 
 [SwiftUI 官方文档](https://developer.apple.com/documentation/swiftui)
 
-![Image.png](https://res.craft.do/user/full/ed58ba84-af46-4bff-88a7-9bb81a02c716/doc/0174AA83-CC7D-43AB-B606-632D64EBEB86/1CE41AA6-7F11-492F-BBAB-86660E7199BC_2/l83I5LcKKx2dAfbSXA5h34EQfXKGjWfy3xSKojP7oRkz/Image.png)
-
 [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui)
 
 - [SwiftUI Tutorials 中文翻译](https://github.com/WillieWangWei/SwiftUI-Tutorials/wiki)
@@ -43,7 +41,7 @@ Hacking Swift  一个入门级完整 App开发教程，因为对每个控件的�
 - 因为考虑给初学者看的，书的内容有很多插图。对新手友好。也有一个免费的[试读版本](https://www.bigmountainstudio.com/view/downloads/free-swiftui-book)。
 - 已经适配 iOS 15。
 
-*🌟* [**Thinking in SwiftUI**](https://objccn.io/products/thinking-in-swiftui)** **by** [objc.io](https://www.objc.io/)
+**🌟 [Thinking in SwiftUI](https://objccn.io/products/thinking-in-swiftui)** by [objc.io](https://www.objc.io/)
 
 - 相比传统的一本书制作一个 App 的教程不同，这本书还着重介绍了 SwiftUI 的编程思想，对技术实现也有一定的剖析。
 - 适配 iOS 14。
@@ -69,5 +67,5 @@ Mengto 的特色就是交互做的很酷。需要翻墙，付费。
 
 # 参考:
 
-- A[bout SwiftUI](https://github.com/Juanpe/About-SwiftUI)
+- [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 
