@@ -24,7 +24,7 @@ SwiftUI 中的各种控件使用的 API 示例文档。
 
 [SwiftUI By Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
-Hacking Swift  一个入门级完整 App开发教程，因为对每个控件的使用单独列了一篇文章，也可以用来参考控件的使用。
+Hacking Swift  一个入门级完整 App 开发教程，因为对每个控件的使用单独列了一篇文章，也可以用来参考控件的使用。
 
 ## WWDC Session
 
@@ -41,7 +41,7 @@ Hacking Swift  一个入门级完整 App开发教程，因为对每个控件的�
 - 因为考虑给初学者看的，书的内容有很多插图。对新手友好。也有一个免费的[试读版本](https://www.bigmountainstudio.com/view/downloads/free-swiftui-book)。
 - 已经适配 iOS 15。
 
-**🌟 [Thinking in SwiftUI](https://objccn.io/products/thinking-in-swiftui)** by [objc.io](https://www.objc.io/)
+🌟 [**Thinking in SwiftUI**](https://objccn.io/products/thinking-in-swiftui) by [objc.io](https://www.objc.io/)
 
 - 相比传统的一本书制作一个 App 的教程不同，这本书还着重介绍了 SwiftUI 的编程思想，对技术实现也有一定的剖析。
 - 适配 iOS 14。
