@@ -28,7 +28,7 @@ Hacking Swift  一个入门级完整 App 开发教程，因为对每个控件的
 
 ## WWDC Session
 
-> 整理中。。。[全部视频列表](https://www.wolai.com/d81ohgu39jPgME7ZCEmSEX)。
+[全部视频列表](https://www.wolai.com/d81ohgu39jPgME7ZCEmSEX)
 
 ## 书
 
