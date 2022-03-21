@@ -61,6 +61,8 @@ Hacking Swift  一个入门级完整 App 开发教程，因为对每个控件的
 
 Mengto 的特色就是交互做的很酷。需要翻墙，付费。
 
+[油管教学视频](https://www.youtube.com/channel/UCsuV4MRk_aB291SrchUVb4w)
+
 ----
 
 > 最后编辑时间 2022.3
